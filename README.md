@@ -14,4 +14,4 @@ There are other problems but to some extent it is usable and will get better soo
 
 [download version 0.0.3](https://github.com/fedeghe/jshero-app/blob/master/versionsjshero-0.0.3-x64.dmg)
 
-![a screenshot](https://github.com/fedeghe/jshero-app/blob/raw/jsheross.png "jsHero")
+![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheross.png "jsHero")
