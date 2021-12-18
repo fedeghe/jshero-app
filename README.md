@@ -12,4 +12,4 @@ This app is under development, for fun, still there are a lot of limitations, am
 There are other problems but to some extent it is usable and will get better soon 👍
 
 
-[download version 0.0.2](https://github.com/fedeghe/jshero-app/blob/master/versionsjshero-0.0.3-x64.dmg)
+[download version 0.0.3](https://github.com/fedeghe/jshero-app/blob/master/versionsjshero-0.0.3-x64.dmg)
