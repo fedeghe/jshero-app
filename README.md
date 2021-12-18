@@ -1,5 +1,5 @@
 # js hero
-![jshero](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jshero.png)
+![jshero](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheroIcon.png)
 
 Experimental js console for 
 
@@ -12,6 +12,9 @@ This app is under development, for fun, still there are a lot of limitations, am
 There are other problems but to some extent it is usable and will get better soon 👍
 
 
-[download version 0.0.3](https://github.com/fedeghe/jshero-app/blob/master/versionsjshero-0.0.3-x64.dmg)
+[download latest version (0.0.3)](https://github.com/fedeghe/jshero-app/blob/master/versionsjshero-0.0.3-x64.dmg)  
 
-![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheross.png "jsHero")
+[changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
+
+
+![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jshero.png "jsHero")
