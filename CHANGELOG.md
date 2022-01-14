@@ -8,3 +8,6 @@
 ### 0.0.5
 - upper right save status
 - way better fork, use freely `console.log` for output
+
+### 0.0.6
+- all BOM should be also accessible
