@@ -10,9 +10,10 @@ This app is under development, for fun, still there are a lot of limitations, am
 There are other problems but to some extent it is usable and will get better soon 👍
 
 
-[download latest version (0.0.6)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.6-x64.dmg)  
+[download latest version (0.0.7)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.7-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 
 
 ![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jshero.png "jsHero")
+![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheroB.png "jsHero")
