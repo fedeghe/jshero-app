@@ -27,7 +27,7 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
-[download latest version (0.0.7)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.7-x64.dmg)  
+[download latest version (0.0.8)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.8-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 

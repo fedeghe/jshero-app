@@ -16,3 +16,7 @@
 - browser context is separated (in 0.0.6 `window` was the app one 👎 )
 - a webview can be toggled using +b; `window` will reference its BOM context
 - to use the webview first toggle it on and then execute the script
+
+### 0.0.8
+- better console.log
+- better spinner on execution
