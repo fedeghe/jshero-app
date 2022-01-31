@@ -9,7 +9,7 @@ This app is under development, for fun, still there are a lot of limitations, am
 - preferences are lost at each restart (the only preference for the moment is just the theme 🤣, thus not a big deal then)
 - if u see the _herojs_ central spinner for unexpectedly too long, quit and restart (hopefully u saved the script); I still could not reproduce it exactly, thus I do not know the cause (only happens in the shipped app, not in the dev one). If happens and you have some time/love to give back then please file an issue on github putting as much informations as possible for me to try reproduce & fix it 👍
 - to see some output use `console.log`.
-- all global modules are accessible with CommonJS (`require`), a the moment it starts the climb search from Applications folder, thus it must really be up.
+- all global modules are accessible with CommonJS (`require`) from yout home directory (since 0.0.9).
 - double click on the top bar to maximize the window
 - choose among many _light_ & _dark_ themes (also the very very very very hot special dark [signavio](https://signavio.com) theme)
 - shortcuts:
@@ -27,7 +27,7 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
-[download latest version (0.0.8)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.8-x64.dmg)  
+[download latest version (0.0.9)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.9-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 

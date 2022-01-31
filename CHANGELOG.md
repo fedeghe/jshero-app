@@ -20,3 +20,8 @@
 ### 0.0.8
 - better console.log
 - better spinner on execution
+
+### 0.0.9
+- `require` now really starts from the search in your home dir (`process.env.NODE_PATH = os.homedir()`)
+- at least theme choice is persistent; the preference panel is WIP
+- dark jshero theme added (default)
