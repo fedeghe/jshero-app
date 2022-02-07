@@ -1,7 +1,7 @@
 # js hero
 ![jshero](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheroIcon.png)
 
-Experimental js console for 
+Experimental js console for  ([why?](https://github.com/fedeghe/jshero-app/blob/master/WHY.md))
 
 This app is under development, for fun, still there are a lot of limitations, among which, but not limited to the following:
 - requires node installed
