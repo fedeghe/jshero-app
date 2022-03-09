@@ -1,3 +1,6 @@
+### 0.0.11 
+- fixed a bug preventing errors to show after `console.log` gets called
+
 ### 0.0.10 
 - `NODE_PATH` now correctly points to `~/node_modules` thus now (once for all) all modules in that folder can be successfully required and used
 
