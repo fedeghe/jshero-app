@@ -1,3 +1,5 @@
+### 0.0.12 
+- fixed a bug preventing the possibility to require relative files
 ### 0.0.11 
 - fixed a bug preventing errors to show after `console.log` gets called
 
