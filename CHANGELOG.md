@@ -1,3 +1,6 @@
+### 0.0.13 
+- just updated electron
+
 ### 0.0.12 
 - fixed a bug preventing the possibility to require relative files
 ### 0.0.11 
