@@ -6,9 +6,8 @@ Experimental js console for  ([why?](https://github.com/fedeghe/jshero-app/bl
 This app is under development, for fun, still there are a lot of limitations, among which, but not limited to the following:
 - requires node installed
 - there's no code assistance neither transpilation
-- if u see the _herojs_ central spinner for unexpectedly too long, quit and restart (hopefully u saved the script); I still could not reproduce it exactly, thus I do not know the cause (only happens in the shipped app, not in the dev one). If happens and you have some time/love to give back then please file an issue on github putting as much informations as possible for me to try reproduce & fix it 👍  
-- in other cases the window become unresponsive, ...and yeah ....let's just say a screenshot might be your last chance to not loose the script 😠
-- (BOM) `window.fetch` is blocked (cors) .... heeeeelp me plz!!!
+- if u see the _herojs_ central spinner for unexpectedly too long, quit and restart (the script can anyway be found on `/Applications/jshero.app/Contents/Resources/app/.webpack/main/native_modules/jsheroScript.js`); I still could not reproduce it exactly, thus I do not know the cause (only happens in the shipped app, not in the dev one). If happens and you have some time/love to give back then please file an issue on github putting as much informations as possible for me to try reproduce & fix it 👍  
+- (BOM) `window.fetch` is blocked (cors) .... I still have to find the time to find a solution. Heeeeelp me plz!!!
 
 ...what should work properly:
 - `console.log` is the way to get some output
