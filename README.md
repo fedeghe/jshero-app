@@ -22,6 +22,7 @@ This app is under development, for fun, still there are a lot of limitations, am
     - ` + s`: save the current script
     - ` + shift + s`: save a copy of the current script naming it as you want
     - ` + b`: toggles on/off the webview
+    - plus all sublime bindings
  - about the webview:
     - in yout script `window` will refer exactly to the webview global scope, some limitations (how can I be so confident _cors_ is not the only one ?)
     - first toggle the webview on, then execute the script
@@ -33,7 +34,7 @@ So in the end ... **do not use it for "real"** ...but but but please **consider*
 
 
 
-[download latest version (0.0.13)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.13-x64.dmg)  
+[download latest version (0.0.14)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.14-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 

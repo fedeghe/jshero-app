@@ -1,3 +1,15 @@
+
+### 0.0.14 
+- better internal setting separation (groundfield for the setting panel)
+- exploit most of the codemirror shipped addons:
+    - sublime bindings
+    - js linter (es9)
+    - js hint (alt + space)
+    - code folding
+    - auto close brakets
+    - brakets match highlight
+    - comment toggle shortcuts ( + /)
+
 ### 0.0.13 
 - just updated electron
 
