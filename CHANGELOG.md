@@ -1,3 +1,5 @@
+### 0.0.15 
+- disable some not fitting options from output codemirror instance
 
 ### 0.0.14 
 - better internal setting separation (groundfield for the setting panel)
