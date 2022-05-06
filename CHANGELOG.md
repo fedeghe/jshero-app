@@ -1,3 +1,5 @@
+### 0.0.17 
+- Fix a small bug about 'recent files' when starting
 ### 0.0.16 
 - _Open recents_ submenu added to the _File_ menu (up to 20 items)
 ### 0.0.15 
