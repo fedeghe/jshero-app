@@ -1,3 +1,5 @@
+### 0.0.18 
+- Some minor refactor and hide the preferences panel which is not ready to be shipped
 ### 0.0.17 
 - Fix a small bug about 'recent files' when starting
 ### 0.0.16 
