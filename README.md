@@ -34,7 +34,7 @@ So in the end ... **do not use it for "real"** ...but but but please **consider*
 
 
 
-[download latest version (0.0.20)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.20-x64.dmg)  
+[download latest version (0.0.21)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.21-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 

@@ -1,3 +1,5 @@
+### 0.0.21  
+- Solved a minor issue that was throwing an error when the main window is closed and one of the shortcuts get triggered  
 ### 0.0.20
 - Some minor refactor and hide the preferences panel which is not ready to be shipped, some small bug fixes
 ### 0.0.17 
