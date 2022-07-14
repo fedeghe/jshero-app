@@ -1,3 +1,5 @@
+### 0.0.22  
+- Fixed a minor bug not allowing all recents to be selectable when +n is used  
 ### 0.0.21  
 - Solved a minor issue that was throwing an error when the main window is closed and one of the shortcuts get triggered  
 ### 0.0.20
