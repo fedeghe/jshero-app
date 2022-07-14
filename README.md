@@ -24,12 +24,11 @@ This app is under development, for fun, still there are a lot of limitations, am
     - ` + b`: toggles on/off the webview
     - plus all sublime bindings
  - about the webview:
-    - in yout script `window` will refer exactly to the webview global scope, some limitations (how can I be so confident _cors_ is not the only one ?)
+    - in yout script `window` will refer exactly to the webview global scope, some limitations (e.g. _cors_)
     - first toggle the webview on, then execute the script
 
 There are other problems but to some extent it is usable and will get better soon 👍
 
-So in the end ... **do not use it for "real"** ...but but but please **consider** to **help me** in case you see something **between those confused lines**.
 
 
 
