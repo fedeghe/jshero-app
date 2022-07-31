@@ -1,3 +1,5 @@
+### 0.0.23  
+- Allow to open json and jsx files  
 ### 0.0.22  
 - Fixed a minor bug not allowing all recents to be selectable when +n is used  
 ### 0.0.21  
