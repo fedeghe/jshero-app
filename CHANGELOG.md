@@ -1,3 +1,5 @@
+### 0.0.24  
+- Fix a small bug related to 'save as' and the 'recents' list  
 ### 0.0.23  
 - Allow to open json and jsx files  
 ### 0.0.22  

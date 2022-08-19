@@ -33,7 +33,7 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
-[download latest version (0.0.23)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.23-x64.dmg)  
+[download latest version (0.0.24)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.24-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 
