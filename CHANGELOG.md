@@ -1,3 +1,6 @@
+### 0.0.25  
+- the _edit_ menu contains a new option labelled  _copy as markdown Details tag_ which when triggered copies in the clipboard a markdown friendly <Details>+<Summary> expandable tag containing the code in the editor.
+
 ### 0.0.24  
 - Fix a small bug related to 'save as' and the 'recents' list  
 ### 0.0.23  
