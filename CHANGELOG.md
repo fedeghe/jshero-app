@@ -1,5 +1,25 @@
+
 ### 0.0.25  
-- the _edit_ menu contains a new option labelled  _copy as markdown Details tag_ which when triggered copies in the clipboard a markdown friendly <Details>+<Summary> expandable tag containing the code in the editor.
+- the _edit_ menu contains a new option labelled  _copy as markdown Details tag_ which when triggered copies in the clipboard a markdown friendly `<Details>+<Summary>` expandable tag containing the code in the editor.  
+    An example follows, you get always a free :icecream: wrapping your code:
+    <details>
+    <summary>free :icecream:</summary>
+
+    ``` js  
+    var uniqueID = new function () {
+        var count = 0,
+            self = this;
+        this.prefix = 'NS_';
+        this.toString = function () {
+            count += 1;
+            return self.prefix + count;
+        };
+    }
+    ```
+    </details>
+
+    when u need to indent the whole thing be sure to select the whole clipboard pased content and indent/ unindent the whole.
+
 ### 0.0.24  
 - Fix a small bug related to 'save as' and the 'recents' list  
 ### 0.0.23  
