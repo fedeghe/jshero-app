@@ -1,3 +1,5 @@
+### 0.0.26  
+the previous version feature _copy as markdown Details tag_ was missing a keyboard short cut ` + m`  
 
 ### 0.0.25  
 - the _edit_ menu contains a new option labelled  _copy as markdown Details tag_ which when triggered copies in the clipboard a markdown friendly `<Details>+<Summary>` expandable tag containing the code in the editor.  
