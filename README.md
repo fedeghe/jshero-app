@@ -22,6 +22,8 @@ This app is under development, for fun, still there are a lot of limitations, am
     - ` + s`: save the current script
     - ` + shift + s`: save a copy of the current script naming it as you want
     - ` + b`: toggles on/off the webview
+    - ` + m`: create & copy the code in the clipboad as a `<details>` markdown friendly snippet
+    - ` + y`: create & copy to the clipboard a bookmarklet which executes the code in the editor
     - plus all sublime bindings
  - about the webview:
     - in yout script `window` will refer exactly to the webview global scope, some limitations (e.g. _cors_)
@@ -33,7 +35,7 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
-[download latest version (0.0.26)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.26-x64.dmg)  
+[download latest version (0.0.27)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.27-x64.dmg)  
 
 [changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
 

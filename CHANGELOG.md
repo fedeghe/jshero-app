@@ -1,3 +1,6 @@
+### 0.0.27  
+now is possible to create a bookmarklet (will be copied in the clipboard) just using the keyboard shortcut ` + y` or the right new option in the _edit_ menu. 
+
 ### 0.0.26  
 the previous version feature _copy as markdown Details tag_ was missing a keyboard short cut ` + m`  
 
