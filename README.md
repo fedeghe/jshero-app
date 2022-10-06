@@ -35,10 +35,23 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
+
 [download latest version (0.0.27)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.27-x64.dmg)  
 
-[changelog](https://github.com/fedeghe/jshero-app/blob/master/CHANGELOG.md)  
+After downloading be sure to open just the first time as follows:  
 
+![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/img/o1.png "jsHero")  
+
+
+then click open    
+
+
+![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/img/o2.jpeg "jsHero")
+
+---
 
 ![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jshero.png "jsHero")
+
+---
+
 ![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/jsheroB.png "jsHero")
