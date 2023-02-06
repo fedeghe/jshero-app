@@ -1,3 +1,9 @@
+### 0.0.28  
+added a utility shortcut function `console.json` simply defined as:  
+``` js
+console.json = j => console.log(JSON.stringify(j, null, 2))
+```
+
 ### 0.0.27  
 now is possible to create a bookmarklet (will be copied in the clipboard) just using the keyboard shortcut ` + y` or the right new option in the _edit_ menu. 
 

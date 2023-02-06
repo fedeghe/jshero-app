@@ -36,7 +36,7 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
-[download latest version (0.0.27)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.27-x64.dmg)  
+[download latest version (0.0.28)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.28-x64.dmg)  
 
 After downloading be sure to open just the first time as follows:  
 
