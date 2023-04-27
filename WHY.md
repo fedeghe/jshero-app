@@ -1,4 +1,4 @@
-From the very first available public releases I've always been amazed by _runjs_!!! 
+From the very first available public releases I've always been amazed by [_runjs_](https://runjs.app/)!!! 
 
 Up to version 1.15.1 (included) there was one really useful feature: the ability to _manage npm packages from within the app_, and those where only affecting the app context, really useful feature.
 I use(d) it to quickly try something and check the result as a small javascript playground to validate small things.
@@ -8,6 +8,8 @@ and whenever a new version is available there is no apparent way to avoid the up
 
 The point is that the author switched into a yearly based subscription for some features among which the node_modules manager (the only one truly relevant for me). **Really a miserable move, such a shame**.
 
-Aware that _runjs_ was developed using [electron js](https://www.electronjs.org/), I started investing some time developing something similar, aiming to the features I was used to have for free in _runjs_, but quickly after getting there I realized the right direction was poiting elsewhere. For the moment I keep the sourcecode in a private repo but the build _.dmg_ file is instead in a public repo; also for the moment I only build the MacOS version.
+Aware that _runjs_ was developed using [⚡️ electron js](https://www.electronjs.org/), I started investing some time developing something similar, aiming to the features I was used to have for free in _runjs_, but quickly after getting there I realized the right thing was to tune my aims. For the moment I keep the sourcecode in a private repo but the build _.dmg_ file is instead in a public repo; also for the moment I only build the MacOS version.
 
 In case you could provide some feedback it would be outgareously great for me.
+
+Only love can save us! ✌🏽
