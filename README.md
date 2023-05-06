@@ -43,7 +43,7 @@ After downloading be sure to open just the first time as follows:
 ![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/img/o1.png "jsHero")  
 
 
-then click open (might happen that the _open_ button ins not visible, in that case discard and try the contextual menu open it again)    
+then click open (might happen that the _open_ button is not visible, in that case discard and try another time from the contextual menu open it)    
 
 
 ![a screenshot](https://raw.githubusercontent.com/fedeghe/jshero-app/master/img/o2.jpeg "jsHero")
