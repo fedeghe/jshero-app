@@ -1,3 +1,6 @@
+### 0.0.30
+Menu rearranged and cleaned up a bit.
+
 ### 0.0.29
 Added notifications when coping to clipboard with y or m;
 DMG avaialbe only for arm64 (Apple Silicon) from now on.
