@@ -1,3 +1,7 @@
+### 0.0.29
+Added notifications when coping to clipboard with y or m;
+DMG avaialbe only for arm64 (Apple Silicon) from now on.
+
 ### 0.0.28  
 added a utility shortcut function `console.json` simply defined as:  
 ``` js

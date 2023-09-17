@@ -35,8 +35,10 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 
+download
+- [the latest version (0.0.29) .dmg installer - only arm64](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.29-arm64.dmg)  
 
-[download latest version (0.0.28)](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.28-x64.dmg)  
+- [one of the previous .dmg installer - only x64](https://github.com/fedeghe/jshero-app/raw/master/versions/)  
 
 After downloading be sure to open just the first time as follows:  
 
