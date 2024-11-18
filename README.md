@@ -36,9 +36,18 @@ There are other problems but to some extent it is usable and will get better soo
 
 
 download
-- [the latest version (0.0.30) .dmg installer - only arm64 from >= 0.0.29](https://github.com/fedeghe/jshero-app/raw/master/versions/jshero-0.0.30-arm64.dmg)  
+- [the latest version (0.0.32) jshero.0.0.32.app (https://github.com/fedeghe/jshero-app/raw/master/versions/jshero.0.0.32.app)  
 
 - [one of the previous .dmg installer - only x64](https://github.com/fedeghe/jshero-app/raw/master/versions/)  
+
+
+# if you download the app
+
+this is the only available option from version >= 0.0.32  
+and it is only compatible with `darwin-arm64` architecture.  
+Download the `.zip` file, uncompress it and move the resulting `.app` in the `applications` folder.
+
+# if you download the installer
 
 After downloading be sure to open just the first time as follows:  
 

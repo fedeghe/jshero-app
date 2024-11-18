@@ -1,3 +1,7 @@
+### 0.0.32
+This is just a love tribute to Siggi.  
+The dark `signavio` theme has a bold reference to her ❤️
+
 ### 0.0.30
 Menu rearranged and cleaned up a bit.
 
